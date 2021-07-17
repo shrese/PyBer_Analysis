@@ -14,7 +14,7 @@ This could be impacted by tipping or mileage.  While we do not have the data to 
 1. The trip lenght for urban areas is shorter than rural or suburban.  This would increase the instances of rides and the average fare per driver, but driving down the average fare per ride.
 2. Rural areas have a lower population, thus fewer instances of rides.
 
-![]( Analysis/citytype.png)
+![]( Analysis/citytype.PNG)
 
 It does not appear that the time of year or the month is a contributing factor to the revenue as it is stable over time.
 
